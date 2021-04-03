@@ -55,10 +55,10 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="250dp"
-            android:src="@drawable/gredient"
             android:layout_alignParentBottom="true"
             android:id="@+id/imgeViewGredient"/>
     </RelativeLayout>
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
